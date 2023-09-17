@@ -1,1 +1,1 @@
-Sitemap: https://naimzaa96.github.io/quartoapp.github.io/sitemap.xml
+Sitemap: https://github.com/naimzaa96/quartoapp.github.io/sitemap.xml
